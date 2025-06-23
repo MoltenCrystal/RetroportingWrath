@@ -7,6 +7,8 @@ This example is made for Zereth Mortis, things could vary in difficulty in extra
 
 ### Requirements
 * Notepad++
+* WowExporter
+* MapTools
 * Wrath of the Lich King 3.3.5
 
 ### Noggit prepp
