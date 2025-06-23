@@ -9,6 +9,10 @@ This example is made for Zereth Mortis, things could vary in difficulty in extra
 * Notepad++
 * Wrath of the Lich King 3.3.5
 
+### Tools prepp
+Before you start, make sure to runt Get-LatestListfile.ps1 first!
+This is to make sure we have everything up to date before converting anything.
+
 ### Noggit prepp
 1. Create a folder in %userprofile%\Documents\NoggitProjects\YOUR_PROJECT_NAME, and <ins>make sure that the folder does not have any spaces in the name</ins>
 2. Open Noggit and create a new Wrath of the Lich King project in Noggit
