@@ -14,9 +14,6 @@ Not all models might not be visible or work at all, some even crashing the game.
 * Wrath of the Lich King 3.3.5
 * Retail World of Warcraft
 
-### Tools prepp
-Create a folder in C:\ called WowTools and then extract everything from GobjectTools to C:\WowTools
-
 ### Extraction
 1. Open wow.export and select what models you want
 2. Click Export M2 / WMO (RAW)

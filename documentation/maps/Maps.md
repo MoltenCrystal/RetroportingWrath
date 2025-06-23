@@ -59,7 +59,7 @@ This is what it should look like before you export everything:
 ## M2 and WMO
 
 ### Conversion: M2
-1. Open C:\MapToos\M2\FixTXID
+1. Open C:\WowTools\MapToos\M2\FixTXID
 2. Open FixTXID.exe and drag-and-drop all M2 files in the program
 3. Press fix and wait for it to finish
 4. Now go back and open C:\MapTools\Multiconverter
@@ -71,10 +71,10 @@ This is what it should look like before you export everything:
 
 **IMPORTANT**, the current multiconverter doesn't really support any WMO's above 9.2.7 to convert properly. If they work, they do, if they don't you are on your own here.
 
-1. Open C:\MapToos\WMO
+1. Open C:\WowTools\MapToos\WMO
 2. Edit ran.bat to the correct path potinting to where your project is located
 3. Run ran.bat as administrator and wait for it to close
-4. Now go back and open C:\MapTools\Multiconverter
+4. Now go back and open C:\WowTools\MapTools\Multiconverter
 5. Open Multiconverter.exe all WMO files in the program
 6. Press fix
 7. Done!

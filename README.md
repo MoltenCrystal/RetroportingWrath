@@ -6,7 +6,7 @@ This collection of guides is aimed towards those who want to retroport anything 
 
 ## Installing the tools
 1. Download the latest tool release
-2. Extract in C:\
+2. Extract in C:\WowTools
 3. Done!
 
 # Patchlist recommendations
