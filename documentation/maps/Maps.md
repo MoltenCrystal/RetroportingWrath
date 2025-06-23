@@ -10,7 +10,6 @@ This example is made for Zereth Mortis, things could vary in difficulty in extra
 * Noggit (3 or Red, or both)
 * WowExporter
 * MapTools
-* Wrath of the Lich King 3.3.5
 
 ### Tools prepp
 Before you start, make sure to runt Get-LatestListfile.ps1 first!

@@ -1,5 +1,9 @@
 # Loadingscreen
 
+### Requirements
+* WowExporter
+* LoadingscreenTools
+
 ## DBC
 * LoadingScreen - Path to your loadingscreen
 * Map - To set the ID of the loadingscreen you added
