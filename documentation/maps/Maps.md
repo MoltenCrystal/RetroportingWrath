@@ -7,7 +7,8 @@ This example is made for Zereth Mortis, things could vary in difficulty in extra
 
 ### Requirements
 * Notepad++
-* Noggit (3 or Red, or both)
+* Noggit Red
+* Noggit 3
 * WowExporter
 * MapTools
 
