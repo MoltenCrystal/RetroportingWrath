@@ -12,7 +12,7 @@ This example is made for Zereth Mortis, things could vary in difficulty in extra
 * MapTools
 
 ### Tools prepp
-Before you start, make sure to runt Get-LatestListfile.ps1 first!
+Before you start, make sure to run Get-LatestListfile.ps1 first!
 This is to make sure we have everything up to date before converting anything.
 
 ### Noggit prepp
