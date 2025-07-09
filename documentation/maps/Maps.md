@@ -7,13 +7,22 @@ This example is made for Zereth Mortis, things could vary in difficulty in extra
 
 ### Requirements
 * Notepad++
-* Noggit (3 or Red, or both)
+* Noggit (3 and Red)
 * WowExporter
 * MapTools
 
 ### Tools prepp
 Before you start, make sure to runt Get-LatestListfile.ps1 first!
 This is to make sure we have everything up to date before converting anything.
+
+### Extraction
+1. Open wow.export and select what map you want
+2. Click on the map, and press CTRL + A to select all tiles
+3. Make sure that every box is ticked before exporting
+This is what it should look like before you export everything:
+![alt text](https://github.com/MoltenCrystal/RetroportingWrath/blob/main/documentation/maps/mapsImgs/wowExport.png)
+4. Wait for it to complete
+5. Done!
 
 ### Noggit prepp
 1. Create a folder in %userprofile%\Documents\NoggitProjects\YOUR_PROJECT_NAME, and <ins>make sure that the folder does not have any spaces in the name</ins>
@@ -26,7 +35,7 @@ It should look something like this:</br>
 4. Press Ok
 5. Open your created project
 4. Press "Add new map"
-5. Make sure the name of the map is the ID of the map you extracted
+5. Make sure the name of the map is the ID/name of the map you extracted
 6. Set expansion as Wrath of the Lich King
 
 If you have done everything right, these parameters should then look something like this:
@@ -34,21 +43,11 @@ If you have done everything right, these parameters should then look something l
 
 6. Save and close Noggit
 
-### Extraction
-1. Open wow.export and select what map you want
-2. Click on the map, and press CTRL + A to select all tiles
-3. Make sure that every box is ticked before exporting
-This is what it should look like before you export everything:
-![alt text](https://github.com/MoltenCrystal/RetroportingWrath/blob/main/documentation/maps/mapsImgs/wowExport.png)
-4. Wait for it to complete
-5. Done!
-
 ### Conversion: ADT, WDT, WDL
 1. Run MapTools.bat
-2. Enter the ID of the map you extracted
-3. Enter the exact name you created for your Noggit project
-4. Wait for it to complete
-5. Done!
+2. Enter the exact name you created for your Noggit project
+3. Wait for it to complete
+4. Done!
 
 ### Get max UID
 
