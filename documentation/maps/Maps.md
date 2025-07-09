@@ -7,12 +7,13 @@ This example is made for Zereth Mortis, things could vary in difficulty in extra
 
 ### Requirements
 * Notepad++
-* Noggit (3 and Red)
+* Noggit Red
+* Noggit 3
 * WowExporter
 * MapTools
 
 ### Tools prepp
-Before you start, make sure to runt Get-LatestListfile.ps1 first!
+Before you start, make sure to run Get-LatestListfile.ps1 first!
 This is to make sure we have everything up to date before converting anything.
 
 ### Extraction

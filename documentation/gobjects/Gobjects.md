@@ -10,9 +10,6 @@ Not all models might not be visible or work at all, some even crashing the game.
 * GobjectTools
 * WDBX
 * Notepad++
-* Latest listfile
-* Wrath of the Lich King 3.3.5
-* Retail World of Warcraft
 
 ### Extraction
 1. Open wow.export and select what models you want
